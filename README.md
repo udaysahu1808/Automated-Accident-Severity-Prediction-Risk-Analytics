@@ -1,0 +1,2 @@
+# Automated-Accident-Severity-Prediction-Risk-Analytics
+Automated Accident Severity Prediction &amp; Risk Analytics is an end-to-end data analytics and machine learning project using YData Profiling, AutoViz, and D-Tale for automated EDA. It includes data cleaning, SQL analysis, feature engineering, predictive modeling, &amp; interactive Power BI dashboards to generate actionable road safety and risk insights.
