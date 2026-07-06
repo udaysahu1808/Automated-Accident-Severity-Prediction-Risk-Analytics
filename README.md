@@ -7,6 +7,31 @@
 ![DTale](https://img.shields.io/badge/DTale-Interactive-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+<!-- Core Technologies -->
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Plotly-Interactive_Charts-3F4F75?logo=plotly&logoColor=white" alt="Plotly">
+
+<!-- EDA Tools -->
+<img src="https://img.shields.io/badge/YData-Profiling-00B894" alt="YData Profiling">
+<img src="https://img.shields.io/badge/AutoViz-Automated_EDA-8E44AD" alt="AutoViz">
+<img src="https://img.shields.io/badge/D--Tale-Interactive_EDA-27AE60" alt="DTale">
+
+<!-- Project -->
+<img src="https://img.shields.io/badge/Project-Accident_Severity_Prediction-E74C3C" alt="Project">
+<img src="https://img.shields.io/badge/Analytics-Risk_Analysis-3498DB" alt="Risk Analytics">
+<img src="https://img.shields.io/badge/Machine_Learning-Classification-FF6F00" alt="Machine Learning">
+<img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-6A1B9A" alt="EDA">
+<img src="https://img.shields.io/badge/Data-Road_Accidents-00897B" alt="Road Accident Data">
+
+<!-- Status -->
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed">
+<img src="https://img.shields.io/badge/Open_Source-Yes-success" alt="Open Source">
+<img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License">
+<img src="https://img.shields.io/badge/Made_With-Python-3776AB?logo=python&logoColor=white" alt="Made with Python">
 An end-to-end **Data Analytics** project that automates Exploratory Data Analysis (EDA) of road accident data using **YData Profiling**, **AutoViz**, and **DTale** to uncover accident severity patterns, evaluate data quality, and generate actionable business insights for road safety improvement.
 
 ---
