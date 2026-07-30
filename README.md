@@ -323,7 +323,7 @@ You are free to use, modify, and distribute this project for educational and com
 
 **Data Analyst | Python | SQL | Power BI | Data Visualization | Business Analytics**
 
-Passionate about transforming raw data into meaningful business insights through analytics, visualization, and automation.
+Passionate about transforming raw data into meaningful business insights through analytics, visualization and automation.
 
 ---
 
