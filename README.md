@@ -45,7 +45,7 @@ The project evaluates and compares three widely used Auto-EDA tools:
 - **AutoViz**
 - **DTale**
 
-The notebook covers complete data understanding, automated profiling, visualization, interactive exploration, comparative evaluation, business insights, and strategic recommendations.
+The notebook covers complete data understanding, automated profiling, visualization, interactive exploration, comparative evaluation, business insights and strategic recommendations.
 
 This project also establishes a strong foundation for future Machine Learning models that can predict accident severity and support intelligent traffic management systems.
 
@@ -63,7 +63,7 @@ The objective of this project is to automate the EDA process using modern analyt
 
 ## Primary Objective
 
-Develop an automated framework for accident severity analytics using **YData Profiling**, **AutoViz**, and **DTale**.
+Develop an automated framework for accident severity analytics using **YData Profiling**, **AutoViz** and **DTale**.
 
 ## Specific Objectives
 
