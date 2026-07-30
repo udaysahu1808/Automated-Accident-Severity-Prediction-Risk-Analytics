@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-An end-to-end **Data Analytics** project that automates Exploratory Data Analysis (EDA) of road accident data using **YData Profiling**, **AutoViz**, and **DTale** to uncover accident severity patterns, evaluate data quality, and generate actionable business insights for road safety improvement.
+An end-to-end **Data Analytics** project that automates Exploratory Data Analysis (EDA) of road accident data using **YData Profiling**, **AutoViz** and **DTale** to uncover accident severity patterns, evaluate data quality and generate actionable business insights for road safety improvement.
 
 ---
 
