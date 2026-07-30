@@ -97,12 +97,33 @@ The dataset is used exclusively for educational and analytical purposes.
 # 📁 Project Structure
 
 ```text
-Automated-Accident-Severity-Prediction-Risk-Analytics/
+📦 Accident-Severity-Prediction-Risk-Analytics
 │
-├── Automated Accident Severity Prediction & Risk Analytics.ipynb
-├── RTA Dataset.csv
-├── README.md
-└── requirements.txt
+├── 📁 Dashboard
+│   ├──  Accident Severity Prediction & Risk Analytics Using Y....html
+│   ├──  Complete D-Tale.html
+│   ├──  D-Tale - Correlations.html
+│   ├──  D-Tale Charts.html
+│   └──  D-Tale.html
+│
+├── 📁 Data
+│   └──  RTA.csv
+│
+├── 📁 Images
+│   ├──  Heatmap.png
+│   ├──  Number of Casualties using Multiple Plot.png
+│   ├──  Number of Vehicles Involved using Multiple Plot.png
+│   ├──  Tool Comparison Table.png
+│   └── Violin Plot.png
+│     
+│
+├── 📁 Notebook
+│   └──  Automated Accident Severity Prediction & Risk Analytics.ipynb
+│
+├──  README.md
+├──  Requirements.txt
+└──  LICENSE
+
 ```
 
 ---
